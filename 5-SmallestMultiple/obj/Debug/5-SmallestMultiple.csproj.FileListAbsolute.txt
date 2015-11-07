@@ -1,6 +1,0 @@
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\5-SmallestMultiple\bin\Debug\5-SmallestMultiple.exe.config
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\5-SmallestMultiple\bin\Debug\5-SmallestMultiple.exe
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\5-SmallestMultiple\bin\Debug\5-SmallestMultiple.pdb
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\5-SmallestMultiple\obj\Debug\5-SmallestMultiple.csprojResolveAssemblyReference.cache
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\5-SmallestMultiple\obj\Debug\5-SmallestMultiple.exe
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\5-SmallestMultiple\obj\Debug\5-SmallestMultiple.pdb

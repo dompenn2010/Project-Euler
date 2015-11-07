@@ -1,6 +1,0 @@
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\012 - HighlyDivisbleTriNum\bin\Debug\012 - HighlyDivisbleTriNum.exe.config
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\012 - HighlyDivisbleTriNum\bin\Debug\012 - HighlyDivisbleTriNum.exe
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\012 - HighlyDivisbleTriNum\bin\Debug\012 - HighlyDivisbleTriNum.pdb
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\012 - HighlyDivisbleTriNum\obj\Debug\012-HighlyDivisbleTriNum.csprojResolveAssemblyReference.cache
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\012 - HighlyDivisbleTriNum\obj\Debug\012 - HighlyDivisbleTriNum.exe
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\012 - HighlyDivisbleTriNum\obj\Debug\012 - HighlyDivisbleTriNum.pdb

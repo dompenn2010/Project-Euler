@@ -1,6 +1,0 @@
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\10-SumOfPrimes\bin\Debug\10-SumOfPrimes.exe.config
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\10-SumOfPrimes\bin\Debug\10-SumOfPrimes.exe
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\10-SumOfPrimes\bin\Debug\10-SumOfPrimes.pdb
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\10-SumOfPrimes\obj\Debug\10-SumOfPrimes.exe
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\10-SumOfPrimes\obj\Debug\10-SumOfPrimes.pdb
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\10-SumOfPrimes\obj\Debug\010-SumOfPrimes.csprojResolveAssemblyReference.cache

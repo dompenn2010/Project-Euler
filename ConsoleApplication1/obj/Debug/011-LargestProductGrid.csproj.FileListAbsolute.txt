@@ -1,6 +1,0 @@
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\ConsoleApplication1\obj\Debug\011-LargestProductGrid.csprojResolveAssemblyReference.cache

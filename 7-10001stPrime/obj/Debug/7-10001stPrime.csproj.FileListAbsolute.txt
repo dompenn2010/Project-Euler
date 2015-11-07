@@ -1,6 +1,0 @@
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\7-10001stPrime\bin\Debug\7-10001stPrime.exe.config
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\7-10001stPrime\bin\Debug\7-10001stPrime.exe
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\7-10001stPrime\bin\Debug\7-10001stPrime.pdb
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\7-10001stPrime\obj\Debug\7-10001stPrime.csprojResolveAssemblyReference.cache
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\7-10001stPrime\obj\Debug\7-10001stPrime.exe
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\7-10001stPrime\obj\Debug\7-10001stPrime.pdb

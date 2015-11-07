@@ -1,6 +1,0 @@
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\9-PythagoreanTriplet\bin\Debug\9-PythagoreanTriplet.exe.config
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\9-PythagoreanTriplet\bin\Debug\9-PythagoreanTriplet.exe
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\9-PythagoreanTriplet\bin\Debug\9-PythagoreanTriplet.pdb
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\9-PythagoreanTriplet\obj\Debug\9-PythagoreanTriplet.exe
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\9-PythagoreanTriplet\obj\Debug\9-PythagoreanTriplet.pdb
-C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\9-PythagoreanTriplet\obj\Debug\9-PythagoreanTriplet.csprojResolveAssemblyReference.cache
