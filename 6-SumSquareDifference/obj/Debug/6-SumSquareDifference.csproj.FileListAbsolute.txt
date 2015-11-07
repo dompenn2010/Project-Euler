@@ -1,0 +1,6 @@
+C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\6-SumSquareDifference\bin\Debug\6-SumSquareDifference.exe.config
+C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\6-SumSquareDifference\bin\Debug\6-SumSquareDifference.exe
+C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\6-SumSquareDifference\bin\Debug\6-SumSquareDifference.pdb
+C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\6-SumSquareDifference\obj\Debug\6-SumSquareDifference.csprojResolveAssemblyReference.cache
+C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\6-SumSquareDifference\obj\Debug\6-SumSquareDifference.exe
+C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\6-SumSquareDifference\obj\Debug\6-SumSquareDifference.pdb

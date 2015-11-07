@@ -1,0 +1,6 @@
+C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\8-LargestProductSeries\bin\Debug\8-LargestProductSeries.exe.config
+C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\8-LargestProductSeries\obj\Debug\8-LargestProductSeries.csprojResolveAssemblyReference.cache
+C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\8-LargestProductSeries\bin\Debug\8-LargestProductSeries.exe
+C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\8-LargestProductSeries\bin\Debug\8-LargestProductSeries.pdb
+C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\8-LargestProductSeries\obj\Debug\8-LargestProductSeries.exe
+C:\Users\dlpennington\Documents\Visual Studio 2013\Projects\ProjectEuler\8-LargestProductSeries\obj\Debug\8-LargestProductSeries.pdb
